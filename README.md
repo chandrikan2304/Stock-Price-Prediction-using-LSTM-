@@ -52,7 +52,7 @@ Stock_Price_Prediction/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stock-price-prediction.git
+   git clone https://github.com/chandrikan2304/Stock-Price-Prediction-using-LSTM-.git
    ```
 
 2. Navigate to the project directory:
